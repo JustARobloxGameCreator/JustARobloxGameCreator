@@ -25,6 +25,7 @@ Currently, I'm working on **Zearch**, a Wikipedia-inspired platform designed to 
 ### 📝 [Zearch](https://github.com/JustARobloxGameCreator/Zearch)
 A Wikipedia-like project for collaborative knowledge sharing.  
 *Built using HTML, CSS, JavaScript, Python and many other languages i will add later.*
+*Zearch is in a private repository, that's why  you can't access it*
 
 ---
 
